@@ -1,6 +1,6 @@
 ##########################
 # Autor @adrianlois_     #
-# Ejercicios ASIR - IMSO #
+# Ejercicios IMSO - ASIR #
 ##########################
 
 [void][System.reflection.Assembly]::LoadWithPartialName("System.Windows.Forms")
