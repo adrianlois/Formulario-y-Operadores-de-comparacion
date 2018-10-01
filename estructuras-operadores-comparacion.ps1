@@ -1,6 +1,6 @@
 ##########################
 # Autor @adrianlois_     #
-# Ejercicios ASIR - IMSO #
+# Ejercicios IMSO - ASIR #
 ##########################
 
 <#
