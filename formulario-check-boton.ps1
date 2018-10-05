@@ -3,6 +3,7 @@
 # Ejercicios IMSO - ASIR #
 ##########################
 
+# Cargar las librerías para el formulario
 [void][System.reflection.Assembly]::LoadWithPartialName("System.Windows.Forms")
 
 # Creamos un nuevo formulario a partir de la libería de forms
