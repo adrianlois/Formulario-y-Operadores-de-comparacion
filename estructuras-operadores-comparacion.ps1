@@ -44,6 +44,7 @@ Tipo de flujos
 
 # Cargar las librerías para el formulario
 [void][System.reflection.Assembly]::LoadWithPartialName("System.Windows.Forms")
+[void][System.Reflection.Assembly]::LoadWithPartialName("System.Drawing")
 
 # Crear el formulario en una variable
 $formulario = New-Object System.Windows.Forms.Form
