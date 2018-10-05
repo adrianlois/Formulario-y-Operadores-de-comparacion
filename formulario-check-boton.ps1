@@ -5,6 +5,7 @@
 
 # Cargar las librerías para el formulario
 [void][System.reflection.Assembly]::LoadWithPartialName("System.Windows.Forms")
+[void][System.Reflection.Assembly]::LoadWithPartialName("System.Drawing") 
 
 # Creamos un nuevo formulario a partir de la libería de forms
 $formulario = New-Object System.Windows.Forms.Form
