@@ -1,6 +1,6 @@
 # repo-asir
 
-Repositorio de ejercicios y proyectos - ASIR
+Repositorio de ejercicios y proyectos - ASIR (Administración de Sistemas Informáticos en Red)
 
 - *01.Acciones-Remotas-BatchScripts*: Scripts para acciones en equipos remotos.
 - *02.ACLs-Recursos-Compartidos*: Gestión de ACLs, recursos compartidos y cuotas.
