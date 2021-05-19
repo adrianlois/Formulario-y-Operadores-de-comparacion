@@ -1,0 +1,10 @@
+#Apellido1;Apellido2;Nombre;Cargo;Turno
+Alvarez;Reza;Alejandro;Administrativo;7:00 a 15:00
+Augusto;Vaamonde;Iago;Administrativo;7:00 a 15:00
+Blanco;Garcia;Jordi;Administrativo;7:00 a 15:00
+Cid;Castro;Pablo;Administrativo;7:00 a 15:00
+Cobas;Garcia;Isabel_Maria;Administrativo;15:00 a 23:00
+Duran;Alonso;Diego;Administrativo;15:00 a 23:00
+Teran;Lopez;Luisa;Administrativo;15:00 a 23:00
+Martinez;Perez;Carmen;Administrativo;15:00 a 23:00
+Sierra;Rodriguez;Gabriel_Alexis;Jefe Departamento;7:00 a 23:00
